@@ -4,3 +4,4 @@ odoo:15
 postgres:15
 postgres:16
 redis:7.2-alpine
+node:lts-alpine
