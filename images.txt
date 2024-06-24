@@ -5,3 +5,4 @@ postgres:15
 postgres:16
 redis:7.2-alpine
 node:lts-alpine
+--platform=linux/amd64 linux/arm64
