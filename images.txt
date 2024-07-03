@@ -11,3 +11,4 @@ node:lts-alpine
 tiangolo/uvicorn-gunicorn-fastapi:python3.10
 node:20
 nginx:1
+adminer
