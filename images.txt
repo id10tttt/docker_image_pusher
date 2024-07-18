@@ -13,3 +13,4 @@ node:20
 nginx:1
 adminer
 traefik:3.0
+mzz2017/v2raya
