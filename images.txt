@@ -17,3 +17,4 @@ mzz2017/v2raya
 owncloud/server:10.14
 mariadb:10.11
 redis:6
+nginx:stable-alpine
