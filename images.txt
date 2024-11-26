@@ -22,3 +22,5 @@ nginx:stable-alpine
 dockurr/macos:latest
 python:3.10-slim
 redis:alpine
+python:3.10
+python:3.12
