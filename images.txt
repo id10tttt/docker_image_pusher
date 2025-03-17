@@ -10,6 +10,7 @@ postgres:15
 postgres:16
 redis:7.2-alpine
 node:lts-alpine
+node:20.0.0-alpine
 whyour/qinglong:latest
 tiangolo/uvicorn-gunicorn-fastapi:python3.10
 node:20
