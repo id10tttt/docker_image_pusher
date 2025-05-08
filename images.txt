@@ -1,6 +1,1 @@
---platform=arm64 arm64v8/node:latest
---platform=arm64 arm64v8/nginx:latest
---platform=arm64 arm64v8/python:3.10
---platform=arm64 arm64v8/redis:latest
---platform=arm64 arm64v8/golang:1.21-alpine
---platform=arm64 arm64v8/polardb_pg_local_instance:15
+--platform=arm64 arm64v8/polardb/polardb_pg_local_instance:15
