@@ -1,1 +1,1 @@
-arm64v8/node:latest
+--platform=arm64 arm64v8/node:latest
