@@ -33,3 +33,4 @@ canyan/janus-gateway:latest
 golang:1.21-alpine
 golang:1.24
 zlmediakit/zlmediakit:master
+arm64v8/node:lts-alpine
