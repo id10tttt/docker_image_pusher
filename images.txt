@@ -1,1 +1,1 @@
---platform=arm64 polardb/polardb_pg_local_instance:15
+--platform=arm64 ossrs/srs:5
