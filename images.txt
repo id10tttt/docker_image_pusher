@@ -12,6 +12,7 @@ redis:7.2-alpine
 node:lts-alpine
 node:20.0.0-alpine
 whyour/qinglong:latest
+hagb/docker-easyconnect:7.6.7
 tiangolo/uvicorn-gunicorn-fastapi:python3.10
 node:20
 nginx:1
