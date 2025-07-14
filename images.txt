@@ -31,6 +31,7 @@ python:3.12
 redis:latest
 minio/minio:latest
 bluenviron/mediamtx:latest-ffmpeg
+mitmproxy/mitmproxy:latest
 
 --platform=arm64 arm64v8/alpine:latest
 --platform=arm64 ossrs/srs:5
