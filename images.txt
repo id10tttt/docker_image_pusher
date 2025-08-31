@@ -1,3 +1,4 @@
+alpine:latest
 odoo:18
 odoo:17
 odoo:16
