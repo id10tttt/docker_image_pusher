@@ -1,2 +1,47 @@
+alpine:latest
+odoo:19
+odoo:18
+odoo:17
+odoo:16
+odoo:15
+odoo:12
+odoo:13
+odoo:14
+postgres:12
+postgres:15
+postgres:16
+redis:7.2-alpine
+node:lts-alpine
+node:20.0.0-alpine
+whyour/qinglong:latest
+hagb/docker-easyconnect:7.6.7
+tiangolo/uvicorn-gunicorn-fastapi:python3.10
+node:20
+nginx:1
+adminer
+traefik:3.0
+mzz2017/v2raya
+owncloud/server:10.14
+mariadb:10.11
+redis:6
+nginx:stable-alpine
+dockurr/macos:latest
+python:3.10-slim
+redis:alpine
+python:3.10
+python:3.12
+redis:latest
+minio/minio:latest
+bluenviron/mediamtx:latest-ffmpeg
+mitmproxy/mitmproxy:latest
 hagb/docker-easyconnect:cli
 hagb/docker-easyconnect:vncless
+
+--platform=arm64 arm64v8/alpine:latest
+--platform=arm64 ossrs/srs:5
+--platform=arm64 polardb/polardb_pg_local_instance:15
+--platform=arm64 arm64v8/nginx:latest
+--platform=arm64 arm64v8/python:3.10
+--platform=arm64 arm64v8/redis:latest
+--platform=arm64 arm64v8/golang:1.21-alpine
+--platform=arm64 minio/minio:latest
