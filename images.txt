@@ -1,1 +1,9 @@
-apache/cloudstack-simulator:latest
+python:3.10
+python:3.14
+redis:latest
+odoo:17
+odoo:18
+odoo:19
+postgres:15
+node:lts-alpine
+nginx:stable-alpine
