@@ -7,3 +7,4 @@ odoo:19
 postgres:15
 node:lts-alpine
 nginx:stable-alpine
+pgvector/pgvector:pg17
