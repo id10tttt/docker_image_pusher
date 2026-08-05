@@ -9,6 +9,7 @@ mysql:9.7
 php:8.1
 php:7.4-apache
 python:3.10
+python:3.12-alpine
 python:3.14
 redis:latest
 odoo:17
