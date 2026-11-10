@@ -18,6 +18,7 @@ redis:latest
 odoo:17
 odoo:18
 odoo:19
+odoo:20
 postgres:15
 node:lts-alpine
 node:latest
@@ -33,4 +34,3 @@ pgvector/pgvector:pg17
 --platform=arm64 arm64v8/python:3.10
 --platform=arm64 arm64v8/redis:latest
 --platform=arm64 arm64v8/golang:1.21-alpine
---platform=arm64 minio/minio:latest
